@@ -11,7 +11,7 @@
 
 >SStap官方网站：[sstap-享受游戏-使用sstap](https://www.sockscap64.com/sstap-享受游戏-使用sstap/) 
 >
->SSTap已于2017年11月19日停止开发及维护. 
+>SSTap已于2023年11月19日停止开发及维护. 
 
 由于作者的原因，停止了更新SSTap，但SStap所用到的修改系统路由表的方法依旧可用。
 
